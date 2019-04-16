@@ -1,1 +1,3 @@
-﻿  StandardVideoData.vcxproj -> D:\C++\StandardVideoData\x64\Debug\StandardVideoData.exe
+﻿  StandardVideoData.cpp
+  LINK : 没有找到 D:\C++\StandardVideoData\x64\Debug\StandardVideoData.exe 或上一个增量链接没有生成它；正在执行完全链接
+  StandardVideoData.vcxproj -> D:\C++\StandardVideoData\x64\Debug\StandardVideoData.exe
